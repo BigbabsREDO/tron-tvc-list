@@ -6,21 +6,19 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "address": "TEMZsMYSC8VJJGddpjYeXS4UN29dWa5Zij",
+      "symbol": "DZfun",
+      "name": "Decentralized Zone",
+      "decimals": 18,
+      "logoURI": "https://www.canva.com/design/DAGPG5Su6lU/OfO6vnhvuJ90ABAAjUFwOg/edit?utm_content=DAGPG5Su6lU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "homepage": "https://decentralizedzone.my.canva.site/",
+      "MarketCapLink": "https://sunpump.meme/token/TEMZsMYSC8VJJGddpjYeXS4UN29dWa5Zij",
       "existingMarkets": [
           {
-              "source": "Binance",
+              "source": "Sunpump",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "DZfun/USDT",
+                  "WIN/TRX"
               ]
           },
           {
